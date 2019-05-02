@@ -1,0 +1,23 @@
+{
+    "name": "review",
+    "version": "1.0.0",
+    "description": "npm axios",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "blah": "mkdir test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/akmal360/review07.git"
+    },
+    "author": "akmal",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/akmal360/review07/issues"
+    },
+    "homepage": "https://github.com/akmal360/review07#readme",
+    "dependencies": {
+        "axios": "^0.18.0"
+    }
+}
